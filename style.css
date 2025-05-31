@@ -71,7 +71,6 @@ body {
     min-height: 100vh;
     background: #ffff;
     background-size: cover;
-    /* fundo responsivo*/
     background-position: center;
     overflow-x: hidden;
 
@@ -229,7 +228,7 @@ body {
 }
 
 .background{
-    background-image: url('/background1.jpg');
+    background-image: url('background1.jpg');
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center center;
