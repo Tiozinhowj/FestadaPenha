@@ -239,7 +239,6 @@ body {
     justify-content: center; 
     gap: 3rem; 
     margin-top: 100px;
-    padding: 200px;
 }
 
 .box1 h1{
@@ -358,12 +357,12 @@ footer {
 
     .container1
     {
-        top:150%;
+        top:115%;
     }
 
     .box1
     {
-        width: 500px;
+        width: 600px;
     }
 
     .indeximg
@@ -373,7 +372,7 @@ footer {
 
     footer
     {
-        top:310%;
+        top:250%;
     }
 
 }
@@ -385,10 +384,21 @@ footer {
         width: unset;
     }
 
-    .indeximg{
-        display: none;
+    .container1
+    {
+        top:110%;
     }
 
+    .box1
+    {
+        font-size: 1em;
+        width: 400px;
+    }
+
+    footer
+    {
+        top:240%;
+    }
 
 
 }

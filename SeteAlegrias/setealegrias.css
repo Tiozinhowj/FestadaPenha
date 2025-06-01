@@ -239,7 +239,6 @@ body {
     justify-content: center; 
     gap: 3rem; 
     margin-top: 100px;
-    padding: 200px;
 }
 
 .box1 h1{
@@ -271,7 +270,7 @@ footer {
     position: absolute;
     bottom: 0px;
     width: 100%;
-    top: 430%;
+    top: 480%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -358,12 +357,12 @@ footer {
 
     .container1
     {
-        top:190%;
+        top:130%;
     }
 
     .box1
     {
-        width: 500px;
+        width: 700px;
     }
 
     .indeximg
@@ -373,7 +372,7 @@ footer {
 
     footer
     {
-        top:420%;
+        top:280%;
     }
 
 }
@@ -383,6 +382,21 @@ footer {
     {
         left: 2rem;
         width: unset;
+    }
+
+    .container1
+    {
+        top: 190%;
+    }
+
+    .box1
+    {
+        width: 400px;
+    }
+
+    footer
+    {
+        top:400%;
     }
 
 }
