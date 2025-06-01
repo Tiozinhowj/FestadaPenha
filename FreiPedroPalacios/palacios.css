@@ -270,7 +270,7 @@ footer {
     position: absolute;
     bottom: 0px;
     width: 100%;
-    top: 260%;
+    top: 270%;
     left: 50%;
     transform: translate(-50%, -50%);
 }

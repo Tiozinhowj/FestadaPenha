@@ -230,7 +230,7 @@ body {
 
 .container1 {
     position: absolute;
-    top: 70%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -270,7 +270,7 @@ footer {
     position: absolute;
     bottom: 0px;
     width: 100%;
-    top: 150%;
+    top: 170%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -362,7 +362,7 @@ footer {
 
     .box1
     {
-        width: 400px;
+        width: 700px;
     }
 
     .indeximg
@@ -382,6 +382,16 @@ footer {
     {
         left: 2rem;
         width: unset;
+    }
+
+    .container1
+    {
+        top:60%;
+    }
+
+    .box1{
+        font-size: 1em;
+        width: 400px;
     }
 
     .indeximg{

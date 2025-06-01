@@ -421,16 +421,30 @@ footer {
         padding: 0.2em 1.5em;
     }
 
+
+    .background{
+     background-image: url('background2.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    margin: 0;
+    min-width:54.5vh;
+    padding: 0;
+}
+
     .container0
     {
     font-family: "Lobster Two", sans-serif;
     font-size: 2em;
-    top: 20%; 
+    top: 25%;
+    max-width: 500px; 
     padding: 15px 25px;
     }
 
     .container1
     {
+        
         align-items: center;
         gap: 5rem;
     }
@@ -535,6 +549,6 @@ footer {
     }
 
     footer{
-        top: 350%;
+        top: 340%;
     }
 }
