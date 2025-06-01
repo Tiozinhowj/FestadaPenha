@@ -328,6 +328,14 @@ footer {
     transition: 0.5s;
 }
 
+@media(max-width: 1500px)
+{
+    .container1
+    {
+        top: 105%;
+    }
+}
+
 @media(max-width: 1100px) {
     .navigation 
     {
@@ -386,7 +394,7 @@ footer {
 
     .container1
     {
-        top:80%;
+        top:100%;
     }
 
     .box1
